@@ -1,2 +1,1 @@
-# .github
-Files for my GitHub Profile
+# Welcome to my GitHub Profile
